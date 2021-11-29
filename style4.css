@@ -4,6 +4,8 @@ width: 100%;
 border: 2px solid rgb(160, 20, 20);
 height: auto;
 background-color: rgb(188, 201, 163);
+text-indent: 20px;
+
 }
 .text-gioithieu p{
     max-width: 100%;
